@@ -3,7 +3,8 @@
   "extends": [
     "next/core-web-vitals",
     "plugin:@typescript-eslint/recommended",
-    "prettier"
+    "prettier",
+    "plugin:sonarjs/recommended"
   ],
   "rules": {
     "no-console": "error",
